@@ -1,0 +1,14 @@
+.one,
+.two {
+    padding: 2em;
+}
+
+.one {
+    border: 1px solid green;
+    background: rgba(0, 255, 0, 0.1);
+}
+
+.two {
+    border: 1px solid red;
+    background: rgba(255, 0, 0, 0.1);
+}
